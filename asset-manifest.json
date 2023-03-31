@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mahamudu-Halic/robo-friends.git/static/css/main.795c04e6.css",
+    "main.js": "/Mahamudu-Halic/robo-friends.git/static/js/main.a3c2b106.js",
+    "static/js/787.ebaa048f.chunk.js": "/Mahamudu-Halic/robo-friends.git/static/js/787.ebaa048f.chunk.js",
+    "index.html": "/Mahamudu-Halic/robo-friends.git/index.html",
+    "main.795c04e6.css.map": "/Mahamudu-Halic/robo-friends.git/static/css/main.795c04e6.css.map",
+    "main.a3c2b106.js.map": "/Mahamudu-Halic/robo-friends.git/static/js/main.a3c2b106.js.map",
+    "787.ebaa048f.chunk.js.map": "/Mahamudu-Halic/robo-friends.git/static/js/787.ebaa048f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.795c04e6.css",
+    "static/js/main.a3c2b106.js"
+  ]
+}
